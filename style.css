@@ -1,0 +1,96 @@
+body {
+background-color: blue;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.main {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+    height: 250px;
+    padding: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+#first {
+    text-align: center;
+    padding: 20px;
+    border: 10px dashed;
+    border-radius: 20px;
+    border-color: black;
+    color: greenyellow;
+    line-height: 5px;
+
+}
+#second {
+    background-color: greenyellow;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 100px;
+    border-radius: 30%;
+    border: 10px solid;
+    border-color: purple;
+    color: blue;
+}
+img {
+    border-radius: 50%;
+    border: 10px solid;
+    height: 250px;
+    width: 250px;
+    align-self: center;
+    padding: 5px;
+    border-color: black;
+}
+.timeline2 {
+    text-align: center;
+    text-shadow: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: greenyellow;
+}
+.name {
+    text-decoration: underline;
+    text-decoration-color: black;
+}
+.education0 {
+    text-decoration-color: black;
+    text-decoration: underline;
+    text-decoration-color: black;
+}
+#third {
+    padding: 340px;
+    border: 20px;
+    border-radius: 30px;
+    color: black;
+    background-color: lightblue;
+    border-color: red;
+    padding: 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.skills0 {
+    text-decoration: double underline;
+    text-decoration-color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
+#forth {
+    text-align: center;
+    background-color: brown;
+    color: white;
+    padding: 100px;
+    border: 20px;
+    border-color: beige;
+    border-radius: 30px;
+
+}
+#musab {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 5px;
+    border: 20px;
+    border-color: black;
+    background-color: white;
+}
+div.fixed {
+    position: fixed;
+    width: 1100px;
+    border: 20px solid #73ad21;
+    text-align: center;
+}
